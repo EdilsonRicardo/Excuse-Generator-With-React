@@ -1,6 +1,6 @@
 import React from 'react';
 import { useState } from 'react';
-import Axios from "Axios";
+import Axios from "axios";
 
 export const ExcuseGenerator = () => {
 
