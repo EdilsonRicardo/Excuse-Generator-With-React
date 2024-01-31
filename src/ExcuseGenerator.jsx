@@ -15,7 +15,6 @@ export const ExcuseGenerator = () => {
     };
 
     const handleButtonClick = (category) => {
-        
         generateExcuse(category);
     }
 
